@@ -122,5 +122,3 @@ The project results include a performance comparison between the three filters b
 If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Please follow the standard GitHub flow for contributions.
 
 ---
-
-This updated README now includes all the relevant information about the three basic filters, providing a comprehensive guide to your project. You can further customize it if necessary, but this version should give a clear and structured overview of your work.
